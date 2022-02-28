@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1103F4eA2E49A91Cddb5149D2080187095501e45",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1103f4ea2e49a91cddb5149d2080187095501e45",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pandastic Panda",
+  "SYMBOL": "PAPA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000 ,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pandastic-panda",
+  "SHOW_BACKGROUND": true
+}
